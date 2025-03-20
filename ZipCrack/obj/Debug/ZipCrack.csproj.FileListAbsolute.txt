@@ -1,0 +1,11 @@
+C:\Users\AlexSanech\source\repos\ZipCrack\bin\Debug\ZipCrack.exe.config
+C:\Users\AlexSanech\source\repos\ZipCrack\bin\Debug\ZipCrack.exe
+C:\Users\AlexSanech\source\repos\ZipCrack\bin\Debug\ZipCrack.pdb
+C:\Users\AlexSanech\source\repos\ZipCrack\obj\Debug\ZipCrack.csproj.AssemblyReference.cache
+C:\Users\AlexSanech\source\repos\ZipCrack\obj\Debug\ZipCrack.csproj.CoreCompileInputs.cache
+C:\Users\AlexSanech\source\repos\ZipCrack\obj\Debug\ZipCrack.exe
+C:\Users\AlexSanech\source\repos\ZipCrack\obj\Debug\ZipCrack.pdb
+C:\Users\AlexSanech\source\repos\ZipCrack\bin\Debug\DotNetZip.dll
+C:\Users\AlexSanech\source\repos\ZipCrack\bin\Debug\DotNetZip.pdb
+C:\Users\AlexSanech\source\repos\ZipCrack\bin\Debug\DotNetZip.xml
+C:\Users\AlexSanech\source\repos\ZipCrack\obj\Debug\ZipCrack.csproj.Up2Date
